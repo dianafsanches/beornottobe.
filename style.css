@@ -1,0 +1,102 @@
+/* Rodapé - Barra de cima */
+.rodape-superior {
+    background-color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.rodape-superior a {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.linha-horizontal {
+        border-top: 1px solid#d3d3d3;
+        margin-top: 40px; /* Espaço entre a linha e a barra de cima */
+    }
+
+/* Rodapé - Barra de baixo */
+.rodape-inferior {
+    background-color: #9C9DC8;
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+}
+
+.rodape-inferior img {
+    max-width: 120px;
+}
+
+.rodape-inferior p {
+    margin-top: 20px;
+    }
+
+.botao-contacto {
+    text-align: center;
+    
+}
+
+.botao-contacto a {
+    width: 200px;
+    margin-top: 20px;
+    background-color: black; /* Cor de fundo preto */
+    color: white; /* Cor do texto branco */
+    border: 1px solid black;
+}
+
+.sustentabilidade {
+    margin-top: 150px;
+    text-align: center;
+}
+
+
+.qualidade {
+    margin-top: 150px;
+    text-align: center;
+
+}
+
+.newsletter{
+    margin-top: 30px; 
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.titulo-produto {
+   font-size: 18px ;
+   margin-top: 10px; 
+   margin-bottom: 5px;
+   font-family: 'Poppins-Light', sans-serif;
+}
+
+.nome-input {
+    width: 610px;
+    margin: 0 auto;
+}
+
+.email-input {
+    width: 610px;
+    margin: 0 auto;
+}
+
+.newsletter-continua{
+    margin-top: 6px;
+     
+}
+
+.contactos{
+    margin-bottom: 30px; 
+}
+
+.produto-plenitude1 {
+    margin-top: 20px;
+    font-size: 14px ;
+}
+      
+.produto-plenitude {
+    margin-top: 20px;
+}
+
